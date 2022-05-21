@@ -111,3 +111,31 @@ background-image: url(./images/landscape.jpeg);
 background-position: center;
 }
 
+
+
+
+/*Quotes section starts here */
+
+.quote-section{
+    height: 300px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.quote{
+    font-size: 30px;
+    width: 700px;
+    margin: 60px;
+    font-style: italic;
+     
+    
+}
+
+.span{
+    margin-left: 300px;
+    font-style: normal;
+}
+
+
