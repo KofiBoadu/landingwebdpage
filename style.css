@@ -77,3 +77,37 @@
     background-position: center;
     margin-top: 50px;
 }
+
+
+
+/* image slides section starts */
+
+
+.slide-contents{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.image-boxes{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.image{
+    height: 400px;
+    width: 400px;
+    
+}
+
+.photo{
+height: 200px;
+width: 300px;
+display: inline-block;
+border-radius: 10px;
+box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+background-image: url(./images/landscape.jpeg);
+background-position: center;
+}
+
