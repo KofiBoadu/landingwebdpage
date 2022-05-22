@@ -169,15 +169,15 @@ background-position: center;
 
 
 .button-section button{
-    border-radius: 10px;
+   border: 2px solid #FFF;
     padding: 5px;
     width: 100px;
     background-color: rgb(0, 102, 255);
     color: white;
-    border-color: azure;
     margin-top: 20px;
     font-size: 15px;
     font-weight: bold;
+    border-radius: 6px;
     
 }
 
